@@ -4,10 +4,11 @@ A Case Study on CWE-457 (Use of Uninitialized Variable)
 Presentation discussing approach, methodology, and results can be found [here](https://youtu.be/3k3uCzpEjzs).
 
 > ⚠️*Note:*⚠️ <br>
-> This repository represents Phase 1 of a multi-stage research project and will likely serve as the foundation for my future dissertation work. 
-> Due to its academic sensitivity, the full source code is not currently public, but I’ve included the associated research paper to outline the approach, methodology, and results. 
-> The goal of this repository is to showcase the scope of work, technical direction, and research contributions, not to release the full implementation at this stage. 
-> Additional materials (e.g., visualizations, presentation slides, and selected data samples) may be added in the future as publication timelines permit.
+> This repository documents Phase 1 of an ongoing multi-stage research effort, which is expected to form the foundation of my future dissertation work.
+> Due to the academic and proprietary nature of this research, the full source code and FSM implementation are not publicly available at this time.
+> However, the repository includes the associated research paper to outline the methodology, experimental design, and key findings. 
+> The primary purpose of this repository is to share the scope of work, technical direction, and contributions to the field of binary vulnerability detection. 
+> Additional materials (e.g., visualizations, presentation slides, and selected data samples) may be added in the future, depending on publication timelines and review clearance. 
 
 ## Project Overview
 This project explores the feasibility of using a Finite State Machine (FSM) approach to detect vulnerabilities directly from disassembled binary code. Specifically, it targets the detection of **CWE-457: Use of Uninitialized Variable** without relying on source code availability.
