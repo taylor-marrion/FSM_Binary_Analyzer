@@ -1,0 +1,26 @@
+# requirements.txt
+
+# Core essentials
+numpy           # Lightweight arrays, numerical operations
+pandas          # CSV/JSONL handling, basic analysis
+
+# Visualization (for analyzing results)
+matplotlib      # Plotting (e.g., # of detected vulnerabilities per CWE)
+seaborn         # Nice statistical visualizations
+tqdm            # Progress bars
+
+# Parsing and Regex
+regex           # Enhanced regular expressions
+
+# Testing
+pytest          # Unit testing framework
+
+# CLI Utilities (optional, but nice)
+click           # For making runner.py command-line friendly (optional)
+
+ipykernel       # Jupyter notebook support
+
+scikit-learn    # Metrics, evaluation tools
+
+# Python Version Assumption
+# Assume Python 3.8–3.12 is compatible
