@@ -115,3 +115,6 @@ The project uses a lightweight dataset derived from the Juliet Test Suite.
 ## Acknowledgments
 - [Juliet Test Suite (NIST)](https://samate.nist.gov/SARD/test-suites/112)
 - [arichardson's Juliet Test Suite C Port](https://github.com/arichardson/juliet-test-suite-c)
+
+
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
